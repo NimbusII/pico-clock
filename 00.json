@@ -1,0 +1,1422 @@
+{
+    "00:00": [
+        {
+            "time": "midnight",
+            "book": "The Picture of Dorian Gray",
+            "author": "Oscar Wilde",
+            "prefix": "As ",
+            "suffix": " was striking bronze blows upon the dusky air, Dorian Gray, dressed commonly, and with a muffler wrapped round his throat, crept quietly out of his house."
+        },
+        {
+            "time": "midnight",
+            "book": "Ulysses",
+            "author": "James Joyce",
+            "prefix": "\"But wait till I tell you,\" he said. :We had a ",
+            "suffix": " lunch too after all the jollification and when we sallied forth it was blue o'clock the morning after the night before\""
+        },
+        {
+            "time": "Midnight",
+            "book": "Pale Fire",
+            "author": "Vladimir Nabokov",
+            "prefix": "\"",
+            "suffix": ",\" you said. What is midnight to the young? And suddenly a festive blaze was flung Across five cedar trunks, snow patches showed, And a patrol car on our bumpy road Came to a crunching stop. Retake, retake!"
+        },
+        {
+            "time": "12.00 pm",
+            "book": "A Squatter's Tale",
+            "author": "Ike Oguine",
+            "prefix": "That a man who could hardly see anything more than two feet away from him could be employed as a security guard suggested to me that our job was not to secure anything but to report for work every night, fill the bulky ledger with cryptic remarks like 'Patrolled perimeter ",
+            "suffix": ", No Incident' and go to the office every fortnight for our wages and listen to the talkative Ms Elgassier."
+        },
+        {
+            "time": "midnight",
+            "book": "A Nocturnal upon St Lucy's Day",
+            "author": "John Donne",
+            "prefix": "'Tis the year's ",
+            "suffix": ", and it is the day's, Lucy's, who scarce seven hours herself unmasks; The sun is spent, and now his flasks Send forth light squibs, no constant rays;"
+        },
+        {
+            "time": "midnight",
+            "book": "Beauty and Sadness",
+            "author": "Yasunari Kawabata",
+            "prefix": "At ",
+            "suffix": " his wife and daughter might still be bustling about, preparing holiday delicacies in the kitchen, straightening up the house, or perhaps getting their kimonos ready or arranging flowers. Oki would sit in the living room and listen to the radio. As the bells rang he would look back at the departing year. He always found it a moving experience."
+        },
+        {
+            "time": "twelve",
+            "book": "Hamlet",
+            "author": "Shakespeare",
+            "prefix": "Bernardo: 'Tis now struck ",
+            "suffix": "; get thee to bed, Francisco."
+        },
+        {
+            "time": "midnight",
+            "book": "Nights At The Circus",
+            "author": "Angela Carter",
+            "prefix": "Big Ben concluded the run-up, struck and went on striking. (...) But, odder still - Big Ben had once again struck ",
+            "suffix": ". The time outside still corresponded to that registered by the stopped gilt clock, inside. Inside and outside matched exactly, but both were badly wrong. H'm."
+        },
+        {
+            "time": "midnight",
+            "book": "Molloy",
+            "author": "Samuel Beckett",
+            "prefix": "But in the end I understood this language. I understood it, I understood it, all wrong perhaps. That is not what matters. It told me to write the report. Does this mean I am freer now than I was? I do not know. I shall learn. Then I went back into the house and wrote, It is ",
+            "suffix": ". The rain is beating on the windows. It was not midnight. It was not raining."
+        },
+        {
+            "time": "0000h.",
+            "book": "Infinite Jest",
+            "author": "David Foster Wallace",
+            "prefix": "Cartridges not allowed after ",
+            "suffix": ", to encourage sleep."
+        },
+        {
+            "time": "twelve",
+            "book": "Hamlet",
+            "author": "William Shakespeare",
+            "prefix": "Francisco. You come most carefully upon your hour. Bernardo. 'Tis now struck ",
+            "suffix": ". Get thee to bed, Francisco."
+        },
+        {
+            "time": "0000h",
+            "book": "Infinite Jest",
+            "author": "David Foster Wallace",
+            "prefix": "Gately can hear the horns and raised voices and u-turn squeals way down below on Wash. That indicate it's around ",
+            "suffix": "., the switching hour."
+        },
+        {
+            "time": "twelve",
+            "book": "Hamlet",
+            "author": "William Shakespeare",
+            "prefix": "Hamlet: What hour now? Horatio: I think it lacks of ",
+            "suffix": ". Marcellus: No, it is struck."
+        },
+        {
+            "time": "midnight",
+            "book": "Swann's Way",
+            "author": "Marcel Proust",
+            "prefix": "He is certain he heard footsteps: they come nearer, and then die away. The ray of light beneath his door is extinguished. It is ",
+            "suffix": "; some one has turned out the gas; the last servant has gone to bed, and he must lie all night in agony with no one to bring him any help."
+        },
+        {
+            "time": "midnight",
+            "book": "Behind the Scenes at the Museum",
+            "author": "Kate Atkinson",
+            "prefix": "I am conceived to the chimes of ",
+            "suffix": " on the clock on the mantelpiece in the room across the hall. The clock once belonged to my great-grandmother (a woman called Alice) and its tired chime counts me into the world."
+        },
+        {
+            "time": "twelve",
+            "book": "Wuthering Heights",
+            "author": "Emily Brontë",
+            "prefix": "I took her hand in mine, and bid her be composed; for a succession of shudders convulsed her frame, and she would keep straining her gaze towards the glass. 'There's nobody here!' I insisted. 'It was YOURSELF, Mrs. Linton: you knew it a while since.' 'Myself!' she gasped, 'and the clock is striking ",
+            "suffix": "! It's true, then! that's dreadful!'"
+        },
+        {
+            "time": "midnight",
+            "book": "Midnight's Children",
+            "author": "Salman Rushdie",
+            "prefix": "I was born in the city of Bombay ... On the stroke of ",
+            "suffix": ", as a matter of fact. Clock-hands joined palms in respectful greeting as I came. Oh, spell it out, spell it out: at the precise instant of India's arrival at independence, I tumbled forth into the world."
+        },
+        {
+            "time": "midnight",
+            "book": "Molloy",
+            "author": "Samuel Beckett",
+            "prefix": "It is ",
+            "suffix": ". The rain is beating on the windows. I am calm. All is sleeping. Nevertheless I get up and go to my desk. I can't sleep. ..."
+        },
+        {
+            "time": "midnight",
+            "book": "Harry Potter and the Half-Blood Prince",
+            "author": "JK Rowling",
+            "prefix": "It was nearing ",
+            "suffix": " and the Prime Minister was sitting alone in his office, reading a long memo that was slipping through his brain without leaving the slightest trace of meaning behind."
+        },
+        {
+            "time": "Midnight",
+            "book": "Oliver Twist",
+            "author": "Charles Dickens",
+            "prefix": "",
+            "suffix": " had come upon the crowded city. The palace, the night-cellar, the jail, the madhouse; the chambers of birth and death, of health and sickness; the rigid face of the corpse and the calm sleep of the child - midnight was upon them all"
+        },
+        {
+            "time": "Midnight",
+            "book": "After Dark",
+            "author": "Murakami",
+            "prefix": "",
+            "suffix": " is approaching, and while the peak of activity has passed, the basal metabolism that maintains life continues undiminished, producing the basso continuo of the city's moan, a monotonous sound that neither rises or falls but is pregnant with foreboding"
+        },
+        {
+            "time": "midnight",
+            "book": "The Raven",
+            "author": "Edgar Allan Poe",
+            "prefix": "Once upon a ",
+            "suffix": " dreary, while I pondered weak and weary, Over many a quaint and curious volume of forgotten lore, While I nodded, nearly napping, suddenly there came a tapping, As of some one gently rapping, rapping at my chamber door. `'Tis some visitor,' I muttered, `tapping at my chamber door - Only this, and nothing more.'"
+        },
+        {
+            "time": "twelve",
+            "book": "Dr Faustus",
+            "author": "Christopher Marlowe",
+            "prefix": "The clock striketh ",
+            "suffix": " O it strikes, it strikes! Now body, turn to air, Or Lucifer will bear thee quick to hell. O soul, be changed into little water drops, And fall into the ocean, ne'er to be found. My God, my God, look not so fierce on me!"
+        },
+        {
+            "time": "midnight",
+            "book": "The Life and Opinions of Tristram Shandy, Gentleman",
+            "author": "Laurence Sterne",
+            "prefix": "The first night, as soon as the corporal had conducted my uncle Toby up stairs, which was about 10 - Mrs. Wadman threw herself into her arm chair, and crossing her left knee with her right, which formed a resting-place for her elbow, she reclin'd her cheek upon the palm of her hand, and leaning forwards, ruminated until ",
+            "suffix": " upon both sides of the question.'"
+        },
+        {
+            "time": "twelve o'clock",
+            "book": "David Copperfield",
+            "author": "Charles Dickens",
+            "prefix": "To begin my life with the beginning of my life, I record that I was born (as I have been informed an believe) on a Friday, at ",
+            "suffix": " at night. It was remarked that the clock began to strike, and I began to cry, simultaneously."
+        },
+        {
+            "time": "midnight",
+            "book": "Henry IV",
+            "author": "William Shakespeare",
+            "prefix": "We have heard the chimes at ",
+            "suffix": "."
+        }
+    ],
+    "00:01": [
+        {
+            "time": "one minute past midnight",
+            "book": "Death at Midnight",
+            "author": "Donald A. Cabana",
+            "prefix": "With the appointed execution time of ",
+            "suffix": " just seconds away, I knocked on the metal door twice. The lock turned and the door swiftly swung open."
+        }
+    ],
+    "00:02": [
+        {
+            "time": "Two minutes past midnight",
+            "book": "Night of the Krait",
+            "author": "Shashi Warrier",
+            "prefix": "",
+            "suffix": ". With me in the lead the fourteen other men of Teams Yellow, White and Red moved out of the clearing and separated for points along the wall where they would cross over into the grounds"
+        }
+    ],
+    "00:03": [
+        {
+            "time": "after twelve o'clock",
+            "book": "The Ragged Trousered Philanthropists",
+            "author": "Robert Tressell",
+            "prefix": "It was ",
+            "suffix": " when Easton came home. Ruth recognised his footsteps before he reached the house, and her heart seemed to stop beating when she heard the clang of the gate, as it closed after he had passed through."
+        },
+        {
+            "time": "three minutes past midnight",
+            "book": "Since Ibsen",
+            "author": "George Jean Nathan",
+            "prefix": "It was just ",
+            "suffix": " when I last saw Archer Harrison alive. I remember, because I said it was two minutes past and he looked at his watch and said it was three minutes past."
+        },
+        {
+            "time": "Three minutes after midnight.",
+            "book": "The Historian",
+            "author": "Elizabeth Kostova",
+            "prefix": "Suddenly I felt a great stillness in the air, then a snapping of tension. I glanced at my watch. ",
+            "suffix": " I was breathing normally and my pen moved freely across the page. Whatever stalked me wasn’t quite as clever as I’d feared, I thought, careful not to pause in my work."
+        }
+    ],
+    "00:04": [
+        {
+            "time": "four minutes past midnight",
+            "book": "Anzio: Epic of Bravery",
+            "author": "Fred Sheehan",
+            "prefix": "At ",
+            "suffix": ", January 22, Admiral Lowry's armada of more than 250 ships reached the transport area off Anzio. The sea was calm, the night was black."
+        }
+    ],
+    "00:05": [
+        {
+            "time": "0005h",
+            "book": "Infinite Jest",
+            "author": "David Foster Wallace",
+            "prefix": "E.M. Security, normally so scrupulous with their fucking trucks at ",
+            "suffix": "., is nowhere around, lending weight to yet another cliché. If you asked Gately what he was feeling right this second he'd have no idea."
+        }
+    ],
+    "00:06": [
+        {
+            "time": "six minutes past midnight",
+            "book": "West of Hell's Fringe",
+            "author": "Glenn Shirley",
+            "prefix": "At ",
+            "suffix": ", death relieved the sufferer."
+        }
+    ],
+    "00:07": [
+        {
+            "time": "seven minutes after midnight",
+            "book": "The Curious Incident of the Dog in the Night-Time",
+            "author": "Mark Haddon",
+            "prefix": "It was ",
+            "suffix": ". The dog was lying on the grass in the middle of the lawn in front of Mrs Shears' house. Its eyes were closed. It looked as if it was running on its side, the way dogs run when they think they are chasing a cat in a dream."
+        }
+    ],
+    "00:08": [
+        {
+            "time": "eight past midnight",
+            "book": "The Brigantine",
+            "author": "James Pascoe",
+            "prefix": "\"Hour of the night!\" exclaimed the priest; \"it is day, not night, and the hour is ",
+            "suffix": "!\""
+        }
+    ],
+    "00:09": [
+        {
+            "time": "12.09am",
+            "book": "The Bhutto Murder Trail: From Waziristan to GHQ",
+            "author": "Amir Mir",
+            "prefix": "At ",
+            "suffix": " on 18 October, the cavalcade had reached the Karsaz Bridge, still ten kilometres from her destination."
+        }
+    ],
+    "00:10": [
+        {
+            "time": "ten minutes past midnight",
+            "book": "The Queue",
+            "author": "Jonathan Barrow",
+            "prefix": "It was at ",
+            "suffix": ". Three police cars, Alsations and a black maria arrive at the farmhouse. The farmer clad only in a jock-strap, refused them entry."
+        }
+    ],
+    "00:11": [
+        {
+            "time": "eleven minutes past midnight",
+            "book": "The Longest Night",
+            "author": "Gavin Mortimer",
+            "prefix": "The first incendiaries to hit St Thomas's Hospital had splattered Riddell House at ",
+            "suffix": ", from where a few hours earlier the Archbishop of Canterbury had given 'an inspiring address'."
+        }
+    ],
+    "00:12": [
+        {
+            "time": "0 Hours, 12 Minutes",
+            "book": "Mason & Dixon",
+            "author": "Thomas Pynchon",
+            "prefix": "Clock time is ",
+            "suffix": ", 0 Seconds. Twenty three minutes later, they have their first sight of Venus. Each lies with his Eye clapp'd to the Snout of an identical two and a half foot Gregorian reflector made by Mr Short, with Darkening-Nozzles by Mr Bird."
+        },
+        {
+            "time": "twelve minutes past midnight",
+            "book": "Kentucky heat",
+            "author": "Fern Michaels",
+            "prefix": "It was ",
+            "suffix": " when mother and daughter saw the first lightning strike. It hit the main barn with such force the ground trembled under their feet."
+        }
+    ],
+    "00:14": [
+        {
+            "time": "fourteen minutes past midnight",
+            "book": "The Matarese Circle",
+            "author": "Robert Ludlum",
+            "prefix": "It was exactly ",
+            "suffix": " when he completed the final call. Among the men he had reched were honourable men. Their voices would be heard by the President."
+        }
+    ],
+    "00:15": [
+        {
+            "time": "twelve-fifteen",
+            "book": "Watchers",
+            "author": "Dean Koontz",
+            "prefix": "At ",
+            "suffix": " he got out of the van. He tucked the pistol under the waistband of his trousers and crossed the silent, deserted street to the Hudston house."
+        },
+        {
+            "time": "twelve-fifteen",
+            "book": "Watchers",
+            "author": "Dean Koontz",
+            "prefix": "At ",
+            "suffix": " he got out of the van. He tucked the pistol under the waistband of his trousers and crossed the silent, deserted street to the Hudston house. He let himself through an unlocked wooden gate onto a side patio brightened only by moonlight filtered through the leafy branches of an enormous sheltering coral tree. He paused to pull on a pair of supple leather gloves."
+        }
+    ],
+    "00:16": [
+        {
+            "time": "sixteen minutes past midnight",
+            "book": "The Longest Night",
+            "author": "Gavin Mortimer",
+            "prefix": "At ",
+            "suffix": ", Block 4 was hit and the roof set alight."
+        }
+    ],
+    "00:17": [
+        {
+            "time": "seventeen minutes after twelve",
+            "book": "Vanvild Kava",
+            "author": "Isaac Bashevis Singer",
+            "prefix": "Kava ordered two glasses of coffee for himself and his beloved and some cake. When the pair left, exactly ",
+            "suffix": ", the club began to buzz with excitement."
+        }
+    ],
+    "00:18": [
+        {
+            "time": "12.18am",
+            "book": "The Book of Lies",
+            "author": "Mary Horlock",
+            "prefix": "21st December 1985, ",
+            "suffix": " [In bed] Michael doesn’t believe in Heaven or Hell. He’s got closer to death than most living people and he tells me there was no tunnel of light or dancing angels. I’m a bit disappointed, to be honest."
+        }
+    ],
+    "00:20": [
+        {
+            "time": "twelve-twenty",
+            "book": "The Quiet American",
+            "author": "Graham Greene",
+            "prefix": "Now she was kneading the little ball of hot paste on the convex margin of the bowl and I could smell the opium. There is no smell like it. Beside the bed the alarm-clock showed ",
+            "suffix": ", but already my tension was over. Pyle had diminished."
+        }
+    ],
+    "00:21": [
+        {
+            "time": "12.21am",
+            "book": "The Raw Shark Texts",
+            "author": "Steven Hall",
+            "prefix": "Nobody had been one of Mycroft Ward's most important operatives and for sixty seconds every day, between ",
+            "suffix": " and 12.22am., his laptop was permitted to connect directly with the gigantic online database of self that was Mycroft Ward's mind."
+        }
+    ],
+    "00:22": [
+        {
+            "time": "12.22am.",
+            "book": "The Raw Shark Texts",
+            "author": "Steven Hall",
+            "prefix": "Nobody had been one of Mycroft Ward's most important operatives and for sixty seconds every day, between 12.21am and ",
+            "suffix": ", his laptop was permitted to connect directly with the gigantic online database of self that was Mycroft Ward's mind."
+        }
+    ],
+    "00:23": [
+        {
+            "time": "twenty-three minutes past midnight",
+            "book": "The Tin Drum",
+            "author": "Günter Grass",
+            "prefix": "Oskar weighed the wristwatch in his hand, then gave the rather fine piece with its luminous dial showing ",
+            "suffix": " to little Pinchcoal. He looked up inquiringly at his chief. Störtebeker nodded his assent. And Oskar said, as he adjusted his drum snugly for the trip home: 'Jesus will lead the way. Follow thou me!'"
+        }
+    ],
+    "00:24": [
+        {
+            "time": "12.24am",
+            "book": "The Longest Night",
+            "author": "Gavin Mortimer",
+            "prefix": "Sanders with Sutton as his gunner began their patrol at ",
+            "suffix": ", turning south towards Beachy Head at 10,000 ft."
+        }
+    ],
+    "00:25": [
+        {
+            "time": "five-and-twenty minutes past midnight",
+            "book": "Fruitfulness",
+            "author": "Emile Zola",
+            "prefix": "Charlotte remembered that she had heard Gregoire go downstairs again, almost immediately after entering his bedroom, and before the servants had even bolted the house-doors for the night. He had certainly rushed off to join Therese in some coppice, whence they must have hurried away to Vieux-Bourg station which the last train to Paris quitted at ",
+            "suffix": ". And it was indeed this which had taken place."
+        },
+        {
+            "time": "Twenty-five past midnight",
+            "book": "The Soldier's Wife",
+            "author": "Joanna Trollope",
+            "prefix": "I mean, look at the time! ",
+            "suffix": "! It was a triumph, it really was!"
+        }
+    ],
+    "00:26": [
+        {
+            "time": "12.26am.",
+            "book": "Bryant & May Off the Rails",
+            "author": "Christopher Fowler",
+            "prefix": "\"A Mr Dutta from King's Cross called and told me you were on your way. He said you wanted to see the arrival of yesterday's ",
+            "suffix": " It'll take me a few minutes to cue up the footage. Our regular security bloke isn't here today; he's up before Haringey Magistrates' Court for gross indecency outside the headquarters of the Dagenham Girl Pipers.\""
+        }
+    ],
+    "00:28": [
+        {
+            "time": "12.28",
+            "book": "11/22/63",
+            "author": "Stephen King",
+            "prefix": "The DRINK CHEER-UP COFFEE wall clock read ",
+            "suffix": "."
+        }
+    ],
+    "00:29": [
+        {
+            "time": "Twenty-nine minutes past twelve",
+            "book": "The Mark of the Knife",
+            "author": "Clayton H Ernst",
+            "prefix": "\"What time is it?\" asked Teeny-bits. The station agent hauled out his big silver watch, looked at it critically and announced: \"",
+            "suffix": ".” “Past twelve!\" repeated Teeny-bits. \"It can't be.\""
+        }
+    ],
+    "00:30": [
+        {
+            "time": "half-past twelve",
+            "book": "The Amateur Cracksman",
+            "author": "E.W. Hornung",
+            "prefix": "It was ",
+            "suffix": " when I returned to the Albany as a last desperate resort. The scene of my disaster was much as I had left it. The baccarat-counters still strewed the table, with the empty glasses and the loaded ash-trays. A window had been opened to let the smoke out, and was letting in the fog instead."
+        }
+    ],
+    "00:31": [
+        {
+            "time": "00:31",
+            "book": "Zombie Apocalypse! Fightback",
+            "author": "Stephen Jones",
+            "prefix": "Third individual approaches unnoticed and without caution. Once within reach, individual reaches out toward subjects. Recording terminates: timecode: ",
+            "suffix": ":02."
+        }
+    ],
+    "00:32": [
+        {
+            "time": "Thirty-two minutes past midnight",
+            "book": "Ixtapa",
+            "author": "Everette Howard Hunt",
+            "prefix": "",
+            "suffix": "; the way things were going I could be at it all night. Before beginning a completely new search of the dial I had a thought: maybe this safe didn't open on zero as older models did, but on a factory-set number"
+        }
+    ],
+    "00:33": [
+        {
+            "time": "thirty-three minutes past midnight",
+            "book": "Cover her Face",
+            "author": "P.D. James",
+            "prefix": "\"So that at twelve-thirty-three you bolted the south door?\" \"Yes,\" replied Stephen Maxie easily. \"At ",
+            "suffix": ".\""
+        }
+    ],
+    "00:34": [
+        {
+            "time": "Thirty-four minutes past midnight",
+            "book": "Killer Tune",
+            "author": "Dreda Say Mitchell",
+            "prefix": "",
+            "suffix": ". 'We got ten minutes to be back here.' LT didn't argue. Schoolboy knew his former trade. LT's eyes fretted over the museum. 'Not still worrying about the security, are you, because there ain't none."
+        }
+    ],
+    "00:40": [
+        {
+            "time": "twenty to one",
+            "book": "A Subaltern's Love Song",
+            "author": "John Betjeman",
+            "prefix": "We sat in the car park till ",
+            "suffix": "/ And now I'm engaged to Miss Joan Hunter Dunn."
+        }
+    ],
+    "00:42": [
+        {
+            "time": "eighteen minutes to one",
+            "book": "Marjorie Morningstar",
+            "author": "Herman Wouk",
+            "prefix": "The butt had been growing warm in her fingers; now the glowing end stung her skin. She crushed the cigarette out and stood, brushing ash from her black skirt. It was ",
+            "suffix": ". She went to the house phone and called his room. The telephone rang and rang, but there was no answer."
+        }
+    ],
+    "00:43": [
+        {
+            "time": "Twelve-forty-three",
+            "book": "A Pocket Full of Rye",
+            "author": "Agatha Christie",
+            "prefix": "Died five minutes ago, you say? he asked. His eye went to the watch on his wrist. ",
+            "suffix": ", he wrote on the blotter."
+        }
+    ],
+    "00:45": [
+        {
+            "time": "12.45",
+            "book": "Pig and Pepper: A Comedy of Youth",
+            "author": "David Footman",
+            "prefix": "At ",
+            "suffix": ", during a lull, Mr Yoshogi told me that owing to the war there were now many more women in England than men."
+        },
+        {
+            "time": "third quarter after midnight",
+            "book": "The Reef",
+            "author": "Edith Wharton",
+            "prefix": "At the thought he jumped to his feet and took down from its hook the coat in which he had left Miss Viner's letter. The clock marked the ",
+            "suffix": ", and he knew it would make no difference if he went down to the post-box now or early the next morning; but he wanted to clear his conscience, and having found the letter he went to the door."
+        }
+    ],
+    "00:47": [
+        {
+            "time": "12:47a.m",
+            "book": "Last Night I Dreamed Of Peace",
+            "author": "Andrew X. Pham",
+            "prefix": "At ",
+            "suffix": ", Uncle Ho left us forever."
+        }
+    ],
+    "00:50": [
+        {
+            "time": "12.50",
+            "book": "Three Men in a Boat",
+            "author": "Jerome K Jerome",
+            "prefix": "The packing was done at ",
+            "suffix": "; and Harris sat on the big hamper, and said he hoped nothing would be found broken. George said that if anything was broken it was broken, which reflection seemed to comfort him. He also said he was ready for bed."
+        }
+    ],
+    "00:54": [
+        {
+            "time": "six minutes to one",
+            "book": "A Double Barrelled Detective Story",
+            "author": "Mark Twain",
+            "prefix": "Everybody was happy; everybody was complimentary; the ice was soon broken; songs, anecdotes, and more drinks followed, and the pregnant minutes flew. At ",
+            "suffix": ", when the jollity was at its highest— BOOM! There was silence instantly."
+        }
+    ],
+    "00:55": [
+        {
+            "time": "Five to one",
+            "book": "61 Hours",
+            "author": "Lee Child",
+            "prefix": "He rolled one way, rolled the other, listened to the loud tick of the clock, and was asleep a minute later. ",
+            "suffix": " in the morning. Fifty-one hours to go."
+        }
+    ],
+    "00:56": [
+        {
+            "time": "12:56 A.M.",
+            "book": "Extremely Loud and Incredibly Close",
+            "author": "Jonathan Safran Foer",
+            "prefix": "It was ",
+            "suffix": " when Gerald drove up onto the grass and pulled the limousine right next to the cemetery."
+        },
+        {
+            "time": "12:56",
+            "book": "Lessons in Essence",
+            "author": "Dana Standridge",
+            "prefix": "Teacher used to lie awake at night facing that clock, batting his eyelashes against his pillowcase to mimic the sound of the rolling drop action. One night, and this first night is lost in the countless later nights of compounding wonder, he discovered a game. Say the time was ",
+            "suffix": "."
+        }
+    ],
+    "00:57": [
+        {
+            "time": "12:57",
+            "book": "Lessons in Essence",
+            "author": "Dana Standridge",
+            "prefix": "A minute had passed, and the roller dropped a new leaf. ",
+            "suffix": ". 12 + 57 = 69; 6 + 9 = 15; 1 + 5 = 6. 712 + 5 = 717; 71 + 7 = 78; 7 + 8 = 15; 1 + 5 = 6 again."
+        }
+    ],
+    "00:58": [
+        {
+            "time": "almost at one in the morning",
+            "book": "The Idiot",
+            "author": "Fyodor Dostoyevsky",
+            "prefix": "It was downright shameless on his part to come visiting them, especially at night, ",
+            "suffix": ", after all that had happened."
+        }
+    ],
+    "00:59": [
+        {
+            "time": "About one o’clock",
+            "book": "Freedom",
+            "author": "Jonathan Frantzen",
+            "prefix": "‘What time is it now?’ she said. ‘",
+            "suffix": "’. ‘In the morning?’ Herera’s friend leered at her. ‘No, there’s a total eclipse of the sun’."
+        }
+    ],
+    "01:00": [
+        {
+            "time": "1.00 am.",
+            "book": "Sister",
+            "author": "Rosamund Lupton",
+            "prefix": "",
+            "suffix": " I felt the surrounding quietness suffocating me"
+        },
+        {
+            "time": "one o’clock",
+            "book": "Atomised",
+            "author": "Michel Houellebecq",
+            "prefix": "He didn’t know what was at the end of the chute. The opening was narrow (though large enough to take the canary). He dreamed that the chute opened onto vast garbage bins filled with old coffee filters, ravioli in tomato sauce and mangled genitalia. Huge worms, as big as the canary, armed with terrible beaks, would attack the body. Tear off the feet, rip out its intestines, burst the eyeballs. He woke up, trembling; it was only ",
+            "suffix": ". He swallowed three Xanax. So ended his first night of freedom."
+        },
+        {
+            "time": "nearly one o'clock",
+            "book": "The Woman in White",
+            "author": "Wilkie Collins",
+            "prefix": "I looked attentively at her, as she put that singular question to me. It was then ",
+            "suffix": ". All I could discern distinctly by the moonlight was a colourless, youthful face, meagre and sharp to look at about the cheeks and chin; large, grave, wistfully attentive eyes; nervous, uncertain lips; and light hair of a pale, brownish-yellow hue."
+        },
+        {
+            "time": "one in the morning",
+            "book": "Tomorrow",
+            "author": "Graham Swift",
+            "prefix": "I'm the only one awake in this house on this night before the day that will change all our lives. Though it's already that day: the little luminous hands on my alarm clock (which I haven't set) show just gone ",
+            "suffix": "."
+        },
+        {
+            "time": "One am",
+            "book": "London Belongs to Me",
+            "author": "Norman Collins",
+            "prefix": "It was the thirtieth of May by now. ",
+            "suffix": " on the thirtieth of May 1940. Quite a famous date on which to be lying awake and staring at the ceiling. Already in the creeks and tidal estuaries of England the pleasure-boats and paddle-steamers were casting their moorings for the day trip to Dunkirk. And, over on the other side, Ted stood as a good a chance as anyone else."
+        },
+        {
+            "time": "one",
+            "book": "Hamlet",
+            "author": "William Shakespeare",
+            "prefix": "Last night of all, When yon same star that's westward from the pole Had made his course t'illume that part of heaven Where now it burns, Marcellus and myself, The bell then beating ",
+            "suffix": " -"
+        },
+        {
+            "time": "one o'clock in the morning",
+            "book": "The Long Dark Tea-time of the Soul",
+            "author": "Douglas Adams",
+            "prefix": "The station was more crowded than he had expected to find it at - what was it? he looked up at the clock - ",
+            "suffix": ". What in the name of God was he doing on King's Cross station at one o'clock in the morning, with no cigarette and no home that he could reasonably expect to get into without being hacked to death by a homicidal bird?"
+        }
+    ],
+    "01:01": [
+        {
+            "time": "About one o’clock",
+            "book": "Freedom",
+            "author": "Jonathan Frantzen",
+            "prefix": "‘What time is it now?’ she said. ‘",
+            "suffix": "’. ‘In the morning?’ Herera’s friend leered at her. ‘No, there’s a total eclipse of the sun’."
+        }
+    ],
+    "01:06": [
+        {
+            "time": "1:06",
+            "book": "No Country for Old Men",
+            "author": "Cormac McCarthy",
+            "prefix": "When he woke it was ",
+            "suffix": " by the digital clock on the bedside table. He lay there looking at the ceiling, the raw glare of the vaporlamp outside bathing the bedroom in a cold and bluish light. Like a winter moon."
+        }
+    ],
+    "01:08": [
+        {
+            "time": "1.08a.m.",
+            "book": "The Rosie Project",
+            "author": "Graeme Simsion",
+            "prefix": "It was ",
+            "suffix": " but he had left the ball at the same time as I did, and had further to travel."
+        }
+    ],
+    "01:09": [
+        {
+            "time": "nine minutes past one",
+            "book": "The Black Bag",
+            "author": "Louis Joseph Vance",
+            "prefix": "They made an unostentatious exit from their coach, finding themselves, when the express had rolled on into the west, upon a station platform in a foreign city at ",
+            "suffix": " o'clock in the morning - but at length without their shadow."
+        }
+    ],
+    "01:10": [
+        {
+            "time": "1.10am",
+            "book": "South: The Endurance Expedition",
+            "author": "Ernest Shackleton",
+            "prefix": "February 26, Saturday - Richards went out ",
+            "suffix": " and found it clearing a bit, so we got under way as soon as possible, which was 2:10a.m."
+        }
+    ],
+    "01:11": [
+        {
+            "time": "nearer to one than half past",
+            "book": "The Affair at the Victory Ball",
+            "author": "Agatha Christie",
+            "prefix": "Declares one of the waiters was the worse for liquor, and that he was giving him a dressing down. Also that it was ",
+            "suffix": "."
+        }
+    ],
+    "01:12": [
+        {
+            "time": "1:12am",
+            "book": "The Curious Incident of the Dog in the Night-Time",
+            "author": "Mark Haddon",
+            "prefix": "It was ",
+            "suffix": " when Father arrived at the police station. I did not see him until 1:28am but I knew he was there because I could hear him. He was shouting, 'I want to see my son,' and 'Why the hell is he locked up?' and, 'Of course I'm bloody angry.'"
+        }
+    ],
+    "01:15": [
+        {
+            "time": "quarter past one",
+            "book": "My Life and Hard Times: \"The Night the Ghost Got In\"",
+            "author": "James Thurber",
+            "prefix": "I am sorry, therefore, as I have said, that I ever paid any attention to the footsteps. They began about a ",
+            "suffix": " o'clock in the morning, a rhythmic, quick-cadenced walking around the dining-room table."
+        },
+        {
+            "time": "1.15am.",
+            "book": "Sour Sweet",
+            "author": "Timothy Mo",
+            "prefix": "Lily Chen always prepared an 'evening' snack for her husband to consume on his return at ",
+            "suffix": ""
+        },
+        {
+            "time": "quarter past one",
+            "book": "My Life and Hard Times: \"The Night the Ghost Got In\"",
+            "author": "James Thurber",
+            "prefix": "The ghost that got into our house on the night of November 17, 1915, raised such a hullabaloo of misunderstandings that I am sorry I didn't just let it keep on walking, and go to bed. Its advent caused my mother to throw a shoe through a window of the house next door and ended up with my grandfather shooting a patrolman. I am sorry, therefore, as I have said, that I ever paid any attention to the footsteps. They began about a ",
+            "suffix": " o'clock in the morning, a rhythmic, quick-cadenced walking around the dining-room table."
+        }
+    ],
+    "01:16": [
+        {
+            "time": "sixteen past one",
+            "book": "Nothing Gold Can Stay",
+            "author": "Dana Stabenow",
+            "prefix": "At ",
+            "suffix": ", they walked into the interview room."
+        },
+        {
+            "time": "1.16am",
+            "book": "Murder on the Orient Express",
+            "author": "Agatha Christie",
+            "prefix": "From 1am to ",
+            "suffix": " vouched for by other two conductors."
+        }
+    ],
+    "01:17": [
+        {
+            "time": "seventeen minutes past one",
+            "book": "A voyage round the moon",
+            "author": "Jules Verne",
+            "prefix": "At that moment (it was ",
+            "suffix": " in the morning) Lieutenant Bronsfield was preparing to leave the watch and return to his cabin, when his attention was attracted by a distant hissing noise."
+        },
+        {
+            "time": "1:17",
+            "book": "The Road",
+            "author": "Cormac McCarthy",
+            "prefix": "The clocks stopped at ",
+            "suffix": ". A long shear of light and then a series of low concussions. He got up and went to the window. What is it? she said. He didnt answer. He went into the bathroom and threw the lightswitch but the power was already gone. A dull rose glow in the windowglass. He dropped to one knee and raised the lever to stop the tub and then turned on both taps as far as they would go. She was standing in the doorway in her nightwear, clutching the jamb, cradling her belly in one hand. What is it? she said. What is happening?"
+        }
+    ],
+    "01:20": [
+        {
+            "time": "twenty minutes past one",
+            "book": "Jeeves and the Feudal Spirit",
+            "author": "P.G. Wodehouse",
+            "prefix": "\"Well!\" she said, looking like a minor female prophet about to curse the sins of the people. \"May I trespass on your valuable time long enough to ask what in the name of everything bloodsome you think you're playing at, young piefaced Bertie? It is now some ",
+            "suffix": " o'clock in the morning, and not a spot of action on your part.\""
+        },
+        {
+            "time": "1.20am",
+            "book": "The Curious Incident Of The Dog In The Night-Time",
+            "author": "Mark Haddon",
+            "prefix": "Then it was ",
+            "suffix": ", but I hadn't heard Father come upstairs to bed. I wondered if he was asleep downstairs or whether he was waiting to come in and kill me. So I got out my Swiss Army Knife and opened the saw blade so that I could defend myself."
+        }
+    ],
+    "01:22": [
+        {
+            "time": "1:22",
+            "book": "Extremely Loud and Incredibly Close",
+            "author": "Jonathan Safran Foer",
+            "prefix": "It was ",
+            "suffix": " when we found Dad's grave."
+        }
+    ],
+    "01:23": [
+        {
+            "time": "twenty-three minutes past one",
+            "book": "A Mummer's Tale",
+            "author": "Anatole France",
+            "prefix": "The clock marked ",
+            "suffix": ". He was suddenly full of agitation, yet hopeful. She had come! Who could tell what she would say? She might offer the most natural explanation of her late arrival."
+        }
+    ],
+    "01:24": [
+        {
+            "time": "1.24am",
+            "book": "Body Parts: Essays on Life-Writing",
+            "author": "Hermione Lee",
+            "prefix": "Larkin had died at ",
+            "suffix": ", turning to the nurse who was with him, squeezing her hand, and saying faintly, 'I am going to the inevitable.'"
+        }
+    ],
+    "01:25": [
+        {
+            "time": "twenty-five minutes past one",
+            "book": "The Moonstone",
+            "author": "Wilkie Collins",
+            "prefix": "He made a last effort; he tried to rise, and sank back. His head fell on the sofa cushions. It was then ",
+            "suffix": " o'clock."
+        }
+    ],
+    "01:26": [
+        {
+            "time": "one twenty-six A.M.",
+            "book": "The Silver Metal Lover",
+            "author": "Tanith Lee",
+            "prefix": "When I reached the stop and got off, it was already ",
+            "suffix": " by the bus's own clock. I had been gone over ten hours."
+        }
+    ],
+    "01:27": [
+        {
+            "time": "twenty-seven minutes past one",
+            "book": "Trackers",
+            "author": "Deon Meyer",
+            "prefix": "At ",
+            "suffix": " she felt as if she was levitating out of her body."
+        }
+    ],
+    "01:28": [
+        {
+            "time": "1:28 am",
+            "book": "The Curious Incident Of The Dog In The Night-Time",
+            "author": "Mark Haddon",
+            "prefix": "It was 1:12 am when Father arrived at the police station. I did not see him until ",
+            "suffix": " but I knew he was there because I could hear him. He was shouting, 'I want to see my son,' and 'Why the hell is he locked up?' and, 'Of course I'm bloody angry.'"
+        }
+    ],
+    "01:29": [
+        {
+            "time": "one-twenty-nine A.M.",
+            "book": "The Narc",
+            "author": "William Edmund Butterworth",
+            "prefix": "He exited the men's room at ",
+            "suffix": ""
+        }
+    ],
+    "01:30": [
+        {
+            "time": "Half-past one",
+            "book": "Rhapsody on a Windy Night",
+            "author": "TS Eliot",
+            "prefix": "\"",
+            "suffix": "”, The street lamp sputtered, The street lamp muttered, The street lamp said, \"Regard that woman ...\""
+        },
+        {
+            "time": "1:30 A.M.",
+            "book": "Microserfs",
+            "author": "Douglas Coupland",
+            "prefix": "Around ",
+            "suffix": " the door opened and I thought it was Karla, but it was Bug, saying Karla and Laura had gone out for a stag night after they ran out of paint."
+        },
+        {
+            "time": "one thirty",
+            "book": "Gone Tomorrow",
+            "author": "Lee Child",
+            "prefix": "The late hour helped. It simplified things. It categorized the population. Innocent bystanders were mostly home in bed. I walked for half an hour, but nothing happened. Until ",
+            "suffix": " in the morning. Until I looped around to 22nd and Broadway."
+        },
+        {
+            "time": "1:30 a.m.",
+            "book": "Ghostwritten",
+            "author": "David Mitchell",
+            "prefix": "The radio alarm clock glowed ",
+            "suffix": " Bad karaoke throbbed through walls. I was wide awake, straightjacketed by my sweaty sheets. A headache dug its thumbs into my temples. My gut pulsed with gamma interference: I lurched to the toilet."
+        }
+    ],
+    "01:32": [
+        {
+            "time": "One-thirty-two",
+            "book": "Stamboul Train",
+            "author": "Graham Greene",
+            "prefix": "She grinned at him with malicious playfulness, showing great square teeth, and then ran for the stairs. ",
+            "suffix": ". She thought that she heard a whistle blown and took the last three steps in one stride."
+        }
+    ],
+    "01:33": [
+        {
+            "time": "One-thirty-three a.m.",
+            "book": "Skeletons",
+            "author": "Kat Fox",
+            "prefix": "He looked at his watch. ",
+            "suffix": " He had been asleep on this bench for over an hour and a half."
+        }
+    ],
+    "01:38": [
+        {
+            "time": "one-thirty-eight",
+            "book": "The Narc",
+            "author": "William Edmund Butterworth",
+            "prefix": "At ",
+            "suffix": " am suspect left the Drive-In and drove to seven hundred and twenty three North Walnut, to the rear of the residence, and parked the car."
+        }
+    ],
+    "01:40": [
+        {
+            "time": "one-forty am",
+            "book": "Bones to Ashes",
+            "author": "Kathy Reichs",
+            "prefix": "March twelfth, ",
+            "suffix": ", she leaves a group of drinking buddies to catch a bus home. She never makes it."
+        }
+    ],
+    "01:44": [
+        {
+            "time": "sixteen minutes to two",
+            "book": "Trackers",
+            "author": "Deon Meyer",
+            "prefix": "She knew it was the stress, two long days of stress, and she looked at her watch, ",
+            "suffix": ", and she almost leaped with fright, a shock wave rippling through her body, where had the time gone?"
+        }
+    ],
+    "01:46": [
+        {
+            "time": "one forty-six a.m.",
+            "book": "Fardnock's Revenge",
+            "author": "J.W. Stockton",
+            "prefix": "That particular phenomenom got Presto up at ",
+            "suffix": "; silently, he painted his face and naked body with camouflage paint. He opened the door to his room and stepped out into the common lobby."
+        }
+    ],
+    "01:50": [
+        {
+            "time": "ten minutes before two AM",
+            "book": "Dog",
+            "author": "Michelle Herman",
+            "prefix": "No, she thought: every spinster legal secretary, bartender, and orthodontist had a cat or two—and she could not tolerate (not even as a lark, not even for a moment at ",
+            "suffix": "), embodying cliché."
+        }
+    ],
+    "01:51": [
+        {
+            "time": "nine minutes to two",
+            "book": "Trackers",
+            "author": "Deon Meyer",
+            "prefix": "At ",
+            "suffix": " the other vehicle arrived. At first Milla didn't believe her eyes: that shape, those markings."
+        }
+    ],
+    "01:54": [
+        {
+            "time": "Six minutes to two",
+            "book": "Trackers",
+            "author": "Dean Koontz",
+            "prefix": "",
+            "suffix": ". Janina Mentz watched the screen, where the small program window flickered with files scrolling too fast to read, searching for the keyword"
+        }
+    ],
+    "02:00": [
+        {
+            "time": "About two",
+            "book": "Dead in the water",
+            "author": "Carola Dunn",
+            "prefix": "\"The middle of the night?\" Alec asked sharply.\"Can you be more definite?\" \"",
+            "suffix": ". Just past.\" Daisy noted that he expressed no concern for her safety."
+        },
+        {
+            "time": "two o'clock",
+            "book": "Les Miserables",
+            "author": "Victor Hugo",
+            "prefix": "As ",
+            "suffix": " pealed from the cathedral bell, Jean Valjean awoke."
+        },
+        {
+            "time": "2 A.M.",
+            "book": "Bech: A Book",
+            "author": "J. Updike",
+            "prefix": "Get on plane at ",
+            "suffix": ", amid bundles, chickens, gypsies, sit opposite pair of plump fortune tellers who groan and (very discreetly) throw up all the way to Tbilisi."
+        },
+        {
+            "time": "two",
+            "book": "Macbeth",
+            "author": "Shakespeare",
+            "prefix": "Lady Macbeth: Out, damned spot! out, I say!—One: ",
+            "suffix": ": why, then, 'tis time to do't.—Hell is murky!—Fie, my lord, fie! a soldier, and afeard? What need we fear who knows it, when none can call our power to account?—Yet who would have thought the old man to have had so much blood in him."
+        },
+        {
+            "time": "It struck two.",
+            "book": "Notes from the underground",
+            "author": "Fyodor Dostoyevsky",
+            "prefix": "Somewhere behind a screen a clock began wheezing, as though oppressed by something, as though someone were strangling it. After an unnaturally prolonged wheezing there followed a shrill, nasty, and as it were unexpectedly rapid, chime - as though someone were suddenly jumping forward. ",
+            "suffix": " I woke up, though I had indeed not been asleep but lying half-conscious."
+        },
+        {
+            "time": "two o'clock",
+            "book": "The Brothers Karamazov",
+            "author": "Fyodor Dostoyevsky",
+            "prefix": "When all had grown quiet and Fyodor Pavlovich went to bed at around ",
+            "suffix": ", Ivan Fyodorovich also went to bed with the firm resolve of falling quickly asleep, as he felt horribly exhausted.'"
+        }
+    ],
+    "02:01": [
+        {
+            "time": "2.01am.",
+            "book": "The Selected Works of T.S. Spivet",
+            "author": "Reif Larsen",
+            "prefix": "I checked my watch. ",
+            "suffix": " The cheeseburger Happy Meal was now only a distant memory. I cursed myself for not also ordering a breakfast sandwich for the morning."
+        }
+    ],
+    "02:02": [
+        {
+            "time": "almost 2:04",
+            "book": "Oblivion",
+            "author": "David Foster Wallace",
+            "prefix": "\"Wake up.\" \"Having the worst dream.\" \"I should certainly say you were.\" \"It was awful. It just went on and on.\" \"I shook you and shook you and.\" \"Time is it.\" \"It's nearly - ",
+            "suffix": ".”"
+        }
+    ],
+    "02:04": [
+        {
+            "time": "2:04",
+            "book": "Oblivion",
+            "author": "David Foster Wallace",
+            "prefix": "\"Wake up.\" \"Having the worst dream.\" \"I should certainly say you were.\" \"It was awful. It just went on and on.\" \"I shook you and shook you and.\" \"Time is it.\" \"It's nearly - almost ",
+            "suffix": ".”"
+        }
+    ],
+    "02:05": [
+        {
+            "time": "2.05",
+            "book": "London Fields",
+            "author": "Martin Amis",
+            "prefix": "At ",
+            "suffix": " the fizzy tights came crackling off."
+        },
+        {
+            "time": "Five minutes past two",
+            "book": "The Picture of Dorian Gray",
+            "author": "Oscar Wilde",
+            "prefix": "Then he began ringing the bell. In about ten minutes his valet appeared, half dressed, and looking very drowsy. ‘I am sorry to have had to wake you up, Francis,’ he said, stepping in; ‘but I had forgotten my latch-key. What time is it?’ ‘",
+            "suffix": ", sir,’ answered the man, looking at the clock and yawning. ‘Five minutes past two? How horribly late! You must wake me at nine to-morrow. I have some work to do.’"
+        }
+    ],
+    "02:07": [
+        {
+            "time": "2:07 a.m.",
+            "book": "The Curious Incident of the Dog in the Night-Time",
+            "author": "Mark Haddon",
+            "prefix": "At ",
+            "suffix": " I decided that I wanted a drink of orange squash before I brushed my teeth and got into bed, so I went downstairs to the kitchen. Father was sitting on the sofa watching snooker on the television and drinking whisky. There were tears coming out of his eyes."
+        },
+        {
+            "time": "2.07 am",
+            "book": "The Curious Incident of the Dog in the Night-time",
+            "author": "Mark Haddon",
+            "prefix": "But I couldn't sleep. And I got out of bed at ",
+            "suffix": " and I felt scared of Mr. Shears so I went downstairs and out of the front door into Chapter Road."
+        },
+        {
+            "time": "2.07 a.m.",
+            "book": "Before I Go to Sleep",
+            "author": "S. J. Watson",
+            "prefix": "Saturday, 17 November — ",
+            "suffix": " I cannot sleep. Ben is upstairs, back in bed, and I am writing this in the kitchen. He thinks I am drinking a cup of cocoa that he has just made for me. He thinks I will come back to bed soon. I will, but first I must write again."
+        }
+    ],
+    "02:10": [
+        {
+            "time": "Ten minutes past two",
+            "book": "The Picture of Dorian Gray",
+            "author": "Oscar Wilde",
+            "prefix": "“",
+            "suffix": ", sir,\" answered the man, looking at the clock and blinking. \"Ten minutes past two? How horribly late! ..”"
+        },
+        {
+            "time": "2:10am",
+            "book": "South: The Endurance Expedition",
+            "author": "Ernest Shackleton",
+            "prefix": "Decided to get under way again as soon as there is any clearance. Snowing and blowing, force about fifty or sixty miles an hour. February 26, Saturday - Richards went out 1:10am and found it clearing a bit, so we got under way as soon as possible, which was ",
+            "suffix": ""
+        }
+    ],
+    "02:12": [
+        {
+            "time": "2.12am",
+            "book": "The Haunter of the Dark",
+            "author": "HP Lovecraft",
+            "prefix": "Then the lights went out all over the city. It happened at ",
+            "suffix": " according to power-house records, but Blake's diary gives no indication of the time. The entry is merely, 'Lights out - God help me.'"
+        }
+    ],
+    "02:13": [
+        {
+            "time": "02.13",
+            "book": "The Second Internet Cafe, Part 1: The Dimension Researcher",
+            "author": "Chris James",
+            "prefix": "Now, listen: your destination is Friday, 4 August 1944, and the window will punch through at 22.30 hours. You're going to a dimension that diverged from our own at ",
+            "suffix": " on the morning of Wednesday 20 February 1918, over twenty-six years earlier. You don't know what it's going to be like..."
+        }
+    ],
+    "02:15": [
+        {
+            "time": "2.15am",
+            "book": "The Shadow Out of Time",
+            "author": "H.P. Lovecraft",
+            "prefix": "At ",
+            "suffix": " a policeman observed the place in darkness, but with the stranger's motor still at the curb."
+        },
+        {
+            "time": "two fifteen",
+            "book": "The Night People",
+            "author": "Jack Finney",
+            "prefix": "It did. When the alarm rang at ",
+            "suffix": ", Lew shut it off, snapped on the little bedside lamp, then swung his feet to the floor to sit on the edge of the bed, holding his eyes open."
+        }
+    ],
+    "02:17": [
+        {
+            "time": "Two-seventeen",
+            "book": "Freedom",
+            "author": "Jonathan Franzen",
+            "prefix": "\"What time is it now?\" He turned her very dusty alarm clock to check. \"",
+            "suffix": ",\" he marveled. It was the strangest time he'd seen in his entire life. \"I apologize that the room is so messy,\" Lalitha said. \"I like it. I love how you are. Are you hungry? I'm a little hungry.\" \"No, Walter.\" She smiled. \"I'm not hungry. But I can get you something.\" \"I was thinking, like, a glass of soy milk. Soy beverage.\""
+        },
+        {
+            "time": "2.17",
+            "book": "The Ipcress File",
+            "author": "Len Deighton",
+            "prefix": "One of the \"choppers\" stopped, did an about-turn and came back to me. The flare spluttered and faded, and now the glare of the spotlight blinded me. I sat very still. It was ",
+            "suffix": ". Against the noise of the blades a deeper resonant sound bit into the chill black air."
+        }
+    ],
+    "02:18": [
+        {
+            "time": "2:18 in the morning",
+            "book": "Moo",
+            "author": "Jane Smiley",
+            "prefix": "It was ",
+            "suffix": ", and Donna could see no one else in any other office working so late."
+        }
+    ],
+    "02:20": [
+        {
+            "time": "Two-twenty",
+            "book": "Southern Mail",
+            "author": "Antoine de Saint Exupery",
+            "prefix": "She turned abruptly to the nurse and asked the time. '",
+            "suffix": "' 'Ah...Two-twenty!' Genevieve repeated, as though there was something urgent to be done."
+        },
+        {
+            "time": "two twenty",
+            "book": "The Night People",
+            "author": "Jack Finney",
+            "prefix": "The night of his third walk Lew slept in his own apartment. When his eyes opened at ",
+            "suffix": ", by the green hands of his alarm, he knew that this time he'd actually been waiting for it in his sleep."
+        }
+    ],
+    "02:21": [
+        {
+            "time": "2:21 a.m.",
+            "book": "The Night of the Generals",
+            "author": "Hans Hellmut Kirst",
+            "prefix": "",
+            "suffix": " Lance-Corporal Hartmann emerged from the house in the Rue de Londres"
+        },
+        {
+            "time": "Two-twenty-one",
+            "book": "Hard Boiled Wonderland and the End of the World",
+            "author": "Haruki Murakami",
+            "prefix": "It was the urge to look up at the sky. But of course there was no sun nor moon nor stars overhead. Darkness hung heavy over me. Each breath I took, each wet footstep, everything wanted to slide like mud to the ground. I lifted my left hand and pressed on the light of my digital wristwatch. ",
+            "suffix": ". It was midnight when we headed underground, so only a little over two hours had passed. We continued walking down, down the narrow trench, mouths clamped tight."
+        }
+    ],
+    "02:24": [
+        {
+            "time": "2.24am.",
+            "book": "After You’d Gone",
+            "author": "Maggie O’Farrell",
+            "prefix": "It was ",
+            "suffix": " She stumbled out of bed, tripping on her shoes that she’d kicked off earlier and pulled on a jumper."
+        }
+    ],
+    "02:25": [
+        {
+            "time": "2.25am.",
+            "book": "Nineteen Eighty-Three: The Red Riding Quartet, Book Four",
+            "author": "David Peace",
+            "prefix": "You see it is time: ",
+            "suffix": " You get out of bed."
+        }
+    ],
+    "02:26": [
+        {
+            "time": "2.26am",
+            "book": "The Lighted Rooms",
+            "author": "Richard Mason",
+            "prefix": "Listened to a voicemail message left at ",
+            "suffix": " by Claude."
+        }
+    ],
+    "02:27": [
+        {
+            "time": "2.27am.",
+            "book": "One Step Behind",
+            "author": "Henning Mankell",
+            "prefix": "The moon didn’t shine again until ",
+            "suffix": " It was enough to show Wallander that he was positioned some distance below the tree."
+        }
+    ],
+    "02:28": [
+        {
+            "time": "2.28am",
+            "book": "Mr Commitment",
+            "author": "Mike Gayle",
+            "prefix": "",
+            "suffix": ": Ran out of sheep and began counting other farmyard animals"
+        }
+    ],
+    "02:30": [
+        {
+            "time": "2:30 a.m.",
+            "book": "The Night People",
+            "author": "Jack Finney",
+            "prefix": "\"Get into the mood, Shirl!\" Lew said. \"The party's already started! Yippee! You dressed for a party, Harry?\" \"Yep. Something told me to put on dinner clothes when I went to bed tonight.\" \"I'm in mufti myself: white gloves and matching tennis shoes. But I'm sorry to report that Jo is still in her Dr. Dentons. What're you wearing, Shirl?\" \"My old drum majorette's outfit. The one I wore to the State Finals. Listen, we can't tie up the phones like this.\" \"Why not?\" said Harry. \"Who's going to call at ",
+            "suffix": " with a better idea? Yippee, to quote Lew, we're having a party! What're we serving, Lew?\" \"Beer, I guess. Haven't got any wine, have we, Jo?\" \"Just for cooking.\""
+        },
+        {
+            "time": "half past two",
+            "book": "The Little Stranger",
+            "author": "Sarah Waters",
+            "prefix": "At about ",
+            "suffix": " she had been woken by the creak of footsteps out on the stairs. At first she had been frightened."
+        },
+        {
+            "time": "0230",
+            "book": "Infinite Jest",
+            "author": "David Foster Wallace",
+            "prefix": "Inc, I tried to pull her off about ",
+            "suffix": ", and there was this fucking… sound."
+        },
+        {
+            "time": "2.30am",
+            "book": "Any Human Heart",
+            "author": "William Boyd",
+            "prefix": "It is ",
+            "suffix": " and I am tight. As a tick, as a lord, as a newt. Must write this down before the sublime memories fade and blur."
+        }
+    ],
+    "02:31": [
+        {
+            "time": "2.31am.",
+            "book": "The Curious Incident Of The Dog In The Night-Time",
+            "author": "Mark Haddon",
+            "prefix": "And then I woke up because there were people shouting in the flat and it was ",
+            "suffix": " And one of the people was Father and I was frightened."
+        }
+    ],
+    "02:32": [
+        {
+            "time": "2.32 a.m.",
+            "book": "The Rosie Project",
+            "author": "Graeme Simsion",
+            "prefix": "The last guests departed at ",
+            "suffix": ", two hours and two minutes after the scheduled completion time."
+        }
+    ],
+    "02:33": [
+        {
+            "time": "Two-thirty-three",
+            "book": "A Swell-looking Babe",
+            "author": "Jim Thompson",
+            "prefix": "But it wasn't going on! It was two-thirty-four, well. ",
+            "suffix": " and nothing had happened. Suppose he got a room call, or the elevator night-bell rang, now."
+        }
+    ],
+    "02:34": [
+        {
+            "time": "two-thirty-four",
+            "book": "A Swell-looking Babe",
+            "author": "Jim Thompson",
+            "prefix": "But it wasn't going on! It was ",
+            "suffix": ", well. Two-thirty-three and nothing had happened. Suppose he got a room call, or the elevator night-bell rang, now."
+        }
+    ],
+    "02:35": [
+        {
+            "time": "2.35",
+            "book": "The Haunter of the Dark",
+            "author": "HP Lovecraft",
+            "prefix": "For what happened at ",
+            "suffix": " we have the testimony of the priest, a young, intelligent, and well-educated person; of Patrolman William J. Monohan of the Central Station, an officer of the highest reliability who had paused at that part of his beat to inspect the crowd."
+        }
+    ],
+    "02:36": [
+        {
+            "time": "2.36am",
+            "book": "The Ipcress File",
+            "author": "Len Deighton",
+            "prefix": "It was about ",
+            "suffix": " when a provost colonel arrived to arrest me. At 2.36 1/2 I remembered the big insulating gauntlets. But even had I remembered before, what could I have done?"
+        }
+    ],
+    "02:37": [
+        {
+            "time": "Thirty-seven minutes past two",
+            "book": "The Stand",
+            "author": "Stephen King",
+            "prefix": "June 13, 1990. ",
+            "suffix": " in the morning. And sixteen seconds."
+        }
+    ],
+    "02:43": [
+        {
+            "time": "2:43",
+            "book": "Neuromancer",
+            "author": "William Gibson",
+            "prefix": "She settled back beside him. 'It's ",
+            "suffix": ":12am, Case. Got a readout chipped into my optic nerve.'"
+        }
+    ],
+    "02:45": [
+        {
+            "time": "0245h",
+            "book": "Infinite Jest",
+            "author": "David Foster Wallace",
+            "prefix": "",
+            "suffix": "., Ennet House, the hours that are truly wee"
+        }
+    ],
+    "02:46": [
+        {
+            "time": "2.46am.",
+            "book": "Patriots",
+            "author": "Steve Sohmer",
+            "prefix": "",
+            "suffix": " The chain drive whirred and the paper target slid down the darkened range, ducking in and out of shafts of yellow incandescent light. At the firing station, a figure waited in the shadows. As the target passed the twenty-five-foot mark, the man opened fire: eight shots-rapid, unhesitating"
+        },
+        {
+            "time": "Two forty-six",
+            "book": "Blood Lines",
+            "author": "Tanya Huff",
+            "prefix": "Vicki shoved her glasses at her face and peered at the clock. ",
+            "suffix": ". 'I don't have time for this' she muttered, sttling back against the pillows, heart still slamming against her ribs."
+        }
+    ],
+    "02:47": [
+        {
+            "time": "2.47am.",
+            "book": "The Book of Want",
+            "author": "Daniel A. Olivas",
+            "prefix": "The glowing numbers read ",
+            "suffix": " Moisés sighs and turns back to the bathroom door. Finally, the doorknob turns and Conchita comes back to bed. She resumes her place next to Moisés. Relieved, he pulls her close."
+        }
+    ],
+    "02:55": [
+        {
+            "time": "2:55 a.m.",
+            "book": "The Night People",
+            "author": "Jack Finney",
+            "prefix": "\"It's the way the world will end, Harry. Recorded cocktail music nuclear-powered to play on for centuries after all life has been destroyed. Selections from 'No, No, Nanette,' throughout eternity. That do you for ",
+            "suffix": "?\""
+        },
+        {
+            "time": "2.55am.",
+            "book": "Downriver",
+            "author": "Iain Sinclair",
+            "prefix": "Time to go: ",
+            "suffix": " Two-handed, Cec lifted his peak cap from the chair."
+        }
+    ],
+    "02:56": [
+        {
+            "time": "2:56",
+            "book": "Extremely Loud and Incredibly Close",
+            "author": "Jonathan Safran Foer",
+            "prefix": "It was ",
+            "suffix": " when the shovel touched the coffin. We all heard the sound and looked at each other."
+        }
+    ],
+    "02:59": [
+        {
+            "time": "2.59",
+            "book": "The Ipcress File",
+            "author": "Len Deighton",
+            "prefix": "I remembered arriving in this room at ",
+            "suffix": " one night. I remembered the sergeant who called me names: mostly Anglo-Saxon monosyllabic four-letter ones with an odd \"Commie\" thrown in for syntax."
+        }
+    ]
+}
